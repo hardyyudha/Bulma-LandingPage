@@ -1,0 +1,17 @@
+html{   
+    scroll-behavior: smooth;
+    width: 100%;
+}
+.card{
+    border-radius: 3em !important;
+}
+.button{
+    border-radius: 3em !important;
+}
+.button:hover{
+    transition:0.3s !important;
+}
+footer{
+    background-color: black !important;
+    color: white;
+}
